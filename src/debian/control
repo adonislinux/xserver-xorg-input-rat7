@@ -1,0 +1,12 @@
+Source: xserver-xorg-input-rat7
+Section: admin
+Priority: optional
+Maintainer: Bobby Martin <bobby.martin@mail.wvu.edu>
+Build-Depends: cdbs, debhelper (>= 5.0.0)
+Standards-Version: 3.9.4
+
+Package: xserver-xorg-input-rat7
+Architecture: all
+Depends: xserver-xorg
+Description: Configures the R.A.T 7 button mappings
+ Configures the R.A.T 7 button mappings

@@ -1,0 +1,7 @@
+xserver-xorg-input-rat7 (10.1.0) lraring-test; urgency=low
+
+  * Initial Release
+  * RT3:
+
+ -- Bobby Martin <bobby.martin@mail.wvu.edu>  Thu, 13 Jun 2013 10:20:54 -0400
+
